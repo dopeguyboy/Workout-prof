@@ -1,0 +1,66 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "homeworkout",
+      "bundleIdentifier": "com.abishkking.maleworkout",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/zyYfHLA.png",
+      "tintColor": "#e42c2c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipaomtk.com/home-workout-no-equipment-ipa/download/0/",
+          "size": 375474094,
+          "version": "1.32.20",
+          "buildVersion": "",
+          "date": "2025-04-22T03:58:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysUsageDescription": "This allows us to use your location to show your walks and runs on a map.",
+          "NSCameraUsageDescription": "We would like to use your camera to take a photo as your avatar.",
+          "NSUserTrackingUsageDescription": "This allows the Home Workouts app to provide you with the most relevant recommendations and ads",
+          "NSHealthUpdateUsageDescription": "Your data about weight, height and active energy will be shared with Apple Health.",
+          "NSMotionUsageDescription": "To ensure the accuracy of tracking",
+          "NSPhotoLibraryAddUsageDescription": "Home Workout needs this access to save images to your album.",
+          "NSHealthShareUsageDescription": "Your data about weight, steps and heart rate will be synced from Apple Health.",
+          "NSAppleMusicUsageDescription": "This allows you to listen to music on your phone while you exercise.",
+          "NSLocationWhenInUseUsageDescription": "This allows us to use your location to show your walks and runs on a map.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This allows us to use your location to show your walks and runs on a map.\n        ",
+          "NSPhotoLibraryUsageDescription": "Home Workout needs this access to update your avatar, share photos and save images to you album."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "news_z5o35h48e5",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2025-04-21T23:58",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
+}
